@@ -12,8 +12,10 @@
 ### Vision Produit
 
 1. Le nom et quelques mots d'explication
+
 Notre site internet est spécialisé dans l’aide à la préparation de plats végétariens. 
 2. Les faits
+
 * L'état du monde, ce qui pousse au changement
 La cuisine végétarienne est en plein essor, il est nécessaire de réaliser un site internet permettant de recenser des recettes végétariennes.
 * Le contexte du produit dans l'organisation 
@@ -22,8 +24,10 @@ La fréquentation de notre site web est en plein essor. De plus en plus de gens d
 Les concurrents
 Il existe peu de concurrents sur le marché des sites web spécialisés dans les recettes végétariennes. 
 3. Les hypothèses
+
 Nos utilisateurs sont des cuisiniers occasionnels, ils n’ont pas de formation particulière en cuisine.
 4. Les objectifs
+
 Satisfaire les internautes.
 Validation des objectifs 
 Présence d’une page de contact sur le site pour que les internautes puissent donner leur avis.
