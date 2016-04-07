@@ -3,7 +3,7 @@
 ##Réalisation d'un site internet de recettes de cuisine
 
 ###Réalisé par:
-*Camille NADAL
-*Florine SIMON
-*Yvan Galéa
-*Jean-Philippe Rivière 
+* Camille NADAL
+* Florine SIMON
+* Yvan Galéa
+* Jean-Philippe Rivière 
