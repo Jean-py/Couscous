@@ -15,12 +15,12 @@
 Notre site internet est spécialisé dans l’aide à la préparation de plats végétariens.
 
 2. Les faits 
-	1. L'état du monde, ce qui pousse au changement 
+	1. L'état du monde, ce qui pousse au changement  
 La cuisine végétarienne est en plein essor, il est nécessaire de réaliser un site internet permettant de recenser des recettes végétariennes. 
-	2. Le contexte du produit dans l'organisation 
+	2. Le contexte du produit dans l'organisation  
 État de l'organisation 
 La fréquentation de notre site web est en plein essor. De plus en plus de gens désirent réaliser des recettes végétariennes. 
-	3. Les concurrents 
+	3. Les concurrents  
 Il existe peu de concurrents sur le marché des sites web spécialisés dans les recettes végétariennes. 
 
 3. Les hypothèses  
