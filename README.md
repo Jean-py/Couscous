@@ -33,7 +33,7 @@ Présence d’une page de contact sur le site pour que les internautes puissent don
 Suite au recueil d’avis d’internautes, notre équipe les analysera et s’attachera à améliorer le guide d’utilisation.
 
 5. Personas
-* Michelle, 50 ans, en recherche de nouveauté culinaire.
+5.1 Michelle, 50 ans, en recherche de nouveauté culinaire.
 * Samïa, 30 ans, végétariene depuis plus de 10 ans.
 * Robert, 75 ans, suite à un triple pontage coronarien, est soucieux de son alimentation et de celle des ses petits enfants.
 * Tom, 22 ans, étudiant en STAPS, cherche à avoir une alimentation saine.
