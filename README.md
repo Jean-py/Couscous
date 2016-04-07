@@ -1,3 +1,9 @@
-#Projet MÃ©thode agile 
+#Projet de Méthodes agiles
 
-Nadal GalÃ©a Simon Riviere
+Réalisation d'un site internet de recettes de cuisine
+
+Réalisé par:
+Camille NADAL
+FLorine SIMON
+Yvan Galéa
+Jean-Philippe Rivière 
