@@ -14,7 +14,7 @@
 1. Le nom et quelques mots d'explication  
 Notre site internet est spécialisé dans l’aide à la préparation de plats végétariens.
 
-2. Les faits  
+2. Les faits 
 * L'état du monde, ce qui pousse au changement 
 La cuisine végétarienne est en plein essor, il est nécessaire de réaliser un site internet permettant de recenser des recettes végétariennes. 
 * Le contexte du produit dans l'organisation 
