@@ -1,6 +1,6 @@
 #Projet de Méthodes agiles
 
-##Réalisation d'un site internet de recettes de cuisine
+##Réalisation d'un site internet de recettes de cuisine végétariennes
 
 ###Réalisé par:
 * Camille NADAL
