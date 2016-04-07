@@ -27,9 +27,9 @@ Il existe peu de concurrents sur le marché des sites web spécialisés dans les re
 Nos utilisateurs sont des cuisiniers occasionnels, ils n’ont pas de formation particulière en cuisine.
 
 4. Les objectifs  
-Satisfaire les internautes.
-Validation des objectifs 
-Présence d’une page de contact sur le site pour que les internautes puissent donner leur avis.
+Satisfaire les internautes.  
+Validation des objectifs  
+Présence d’une page de contact sur le site pour que les internautes puissent donner leur avis.  
 Suite au recueil d’avis d’internautes, notre équipe les analysera et s’attachera à améliorer le guide d’utilisation.
 
 * Personas
