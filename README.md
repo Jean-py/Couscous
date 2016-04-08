@@ -9,6 +9,10 @@
 * Jean-Philippe Rivière 
 
 
+####Installation
+Télécharger le projet et ouvrir le fichier "index.html" dans un navigateur.
+
+
 ### Vision Produit
 
 1. Le nom et quelques mots d'explication  
